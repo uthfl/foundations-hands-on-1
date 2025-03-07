@@ -12,4 +12,4 @@ Github研修#1
 - 箇条書き２
 - 箇条書き３
 
-[リンク] https://github.com/uthfl/foundations-hands-on-1/edit/update-readme/README.md
+[リンク] (https://github.com/uthfl/foundations-hands-on-1/edit/update-readme/README.md)
